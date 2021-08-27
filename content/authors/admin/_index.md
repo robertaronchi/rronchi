@@ -44,7 +44,7 @@ social:
   icon_pack: fas
   link: mailto:corrado.corradi@outlook.com #'/#contact'
 - icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   link: https://twitter.com/CorradoCorradiD
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
