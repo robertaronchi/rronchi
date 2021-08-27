@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Corrado Corradi˗Dell'Acqua
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Neuroscientist - Cognitive Psychologist - Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Theory of Pain Laboratory (ToPLab)
+  url: https://www.unige.ch/fapse/toplab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pain
+- Chemosensation
+- Affective Processing
+- Social Cognition
+- Decision-Making
+- Cognitive Neuroscience
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Neuroscience
+    institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
+    year: 2007
+  - course: MS in Psychology
+    institution: UHSR, University Hospital San Raffaele, Milan, Italy
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,36 +42,39 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:corrado.corradi@outlook.com #'/#contact'
 - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  icon_pack: ai
+  link: https://twitter.com/CorradoCorradiD
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/corrado-corradi-dell-acqua-77390ab8/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV_ENG_Picture.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "corrado.corradi@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Cognitive neuroscientist and psychologist with long-lasting  experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also invested in understanding the cognitive and neural processes underlying the diagnosis and management of people’s pain. This is a research line with both fundamental and translational relevance, and organized on the following axes: neural/physiological fingerprinting of somatic affect,
+prediction of real-life pain-management behaviour from brain activity, and
+effect of attention on pain experience and relief.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="hand-point-right" pack="fas" >}} Please check all my {{< staticref "#projects" >}}Research Projects{{< /staticref >}}
