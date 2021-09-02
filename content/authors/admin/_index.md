@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:corrado.corradi@outlook.com #'/#contact'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CorradoCorradiD
