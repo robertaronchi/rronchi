@@ -24,7 +24,7 @@ tags: [pain,nociception,emotion,Unpleasantness,decision-making,moral cognition,S
 title: Does inappropriate behaviour hurt or stink? The interplay between neural representations of somatic experiences and moral decisions
 url_code: "https://osf.io/jkrvp/"
 url_dataset: ""
-url_pdf: "https://advances.sciencemag.org/content/advances/6/42/eaat4390.full.pdf"
+url_pdf: "https://www.science.org/doi/epdf/10.1126/sciadv.aat4390"
 url_poster: ""
 url_project: ""
 url_slides: ""
