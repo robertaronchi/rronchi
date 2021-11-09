@@ -13,11 +13,11 @@ image:
   focal_point: ""
   preview_only: true
 projects: [TOM]
-publication: 'bioRxiv, doi: 10.1101/2021.10.26.465856'
-publication_short: "bioRxiv, doi: 10.1101/2021.10.26.465856"
+publication: 'Brain, doi: 10.1101/2021.10.26.465856'
+publication_short: "Brain, doi: 10.1101/2021.10.26.465856"
 publication_types:
-- "3"
-publishDate: "2021-01-01T00:00:00Z"
+- "2"
+publishDate: "2021-10-29T00:00:00Z"
 slides: 
 summary:
 tags: [Brain tumors,Theory of Mind,Mentalizing,Perspective taking,Affective Theory of Mind,Lesion symptom mapping]
