@@ -33,3 +33,6 @@ url_source: ""
 url_video: ""
 
 ---
+
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/2016 - NatComms - Supp.pdf" "newtab" >}}Supplementary Information{{< /staticref >}}.
