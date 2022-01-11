@@ -6,15 +6,15 @@ authors:
 - admin
 - Miran Skrap
 date: "2021-10-29T00:00:00Z"
-doi: "10.1101/2021.10.26.465856"
+doi: "10.1093/brain/awab441"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: [TOM]
-publication: 'Brain, doi: 10.1101/2021.10.26.465856'
-publication_short: "Brain, doi: 10.1101/2021.10.26.465856"
+publication: 'Brain, doi: 10.1093/brain/awab441'
+publication_short: "Brain, doi: 10.1093/brain/awab441"
 publication_types:
 - "2"
 publishDate: "2021-10-29T00:00:00Z"

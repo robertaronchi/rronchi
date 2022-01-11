@@ -25,7 +25,7 @@ tags: [pain,nociception,empathy,emotion,Unpleasantness,decision-making,Unfairnes
 title: Cross-modal representations of first-hand and vicarious pain, disgust and fairness in insular and cingulate cortex
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "uploads/2016 - NatComms.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -24,7 +24,7 @@ tags: [pain,nociception,empathy,emotion,Handedness task,Social cognition,fMRI,ne
 title: Felt and seen pain evoke the same local patterns of cortical activity in insular and cingulate cortex
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "uploads/2011 - JoN.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
