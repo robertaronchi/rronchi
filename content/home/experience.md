@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Maître d’enseignement et de recherché (Lecturer)
+    company: Faculty of Medicine, University of Geneva
+    company_url: 'https://www.unige.ch/medecine/'
+    company_logo: 
+    location: Geneva, Switzerland
+    date_start: '2022-01-01'
+    date_end: ''
+    description:
+
   - title: Assistant Professor
     company: Faculty of Psychology and Educational Sciences (FPSE), University of Geneva
     company_url: 'https://www.unige.ch/fapse/toplab/'
     company_logo: 
     location: Geneva, Switzerland
     date_start: '2015-09-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: I have been coordinating my own research team, comprehending 2 post-doc, 4 doctoral students, 11 master students, and 4 interns. During this time, I’ve been managing my own SNSF fellowship.
         
   - title: Post-doc & Maître assistant
