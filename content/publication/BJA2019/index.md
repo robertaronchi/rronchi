@@ -24,7 +24,7 @@ publication_types:
 publishDate: "2019-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,analgesia,decision-making,risk,empathy,neuroimaging,Pain Management,Handedness task,MVPA,fMRI,Insula,Cingulate Cortex,Error,Feedback,Agency]
+tags: [pain,analgesia,decision-making,risk,empathy,neuroimaging,Pain Management,Handedness task,MVPA,fMRI,Insula,Cingulate Cortex,Error,Feedback,Agency,Uncertainty]
 title: Pain management decisions in emergency hospitals are predicted by brain activity during empathy and error monitoring
 url_code: "https://osf.io/2bved/"
 url_dataset: ""

@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2021-07-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,analgesia,Pain Management,decision-making,Social cognition,Social interactions,Social Influence,Conformity,Facial Expressions,face processing,fMRI,neuroimaging,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,ventral striatum,Reward,Feedback]
+tags: [pain,analgesia,Pain Management,decision-making,Social cognition,Social interactions,Social Influence,Conformity,Facial Expressions,face processing,fMRI,neuroimaging,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,ventral striatum,Reward,Feedback,Uncertainty]
 title: Medical education and distrust modulate the response of insular-cingulate network and ventral striatum in pain diagnosis
 url_code: "https://osf.io/qnp6m/"
 url_dataset: "https://neurovault.org/collections/9006/"
