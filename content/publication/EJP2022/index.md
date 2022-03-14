@@ -6,7 +6,7 @@ authors:
 - Louis Schumacher
 - admin
 date: "2022-03-13T00:00:00Z"
-doi: "10.1002/ejp.1390"
+doi: "10.31234/osf.io/b982h"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
@@ -25,7 +25,7 @@ title: The Effect of Uncertainty on Pain Decisions for Self and Others
 url_code: ""
 url_dataset: ""
 url_pdf: ""
-url_preprint: "10.31234/osf.io/b982h"
+url_preprint: "https://psyarxiv.com/b982h/"
 url_project: ""
 url_slides: ""
 url_source: ""
