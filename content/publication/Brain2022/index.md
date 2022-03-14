@@ -5,7 +5,7 @@ authors:
 - Thomas West
 - admin
 - Miran Skrap
-date: "2021-10-29T00:00:00Z"
+date: "2022-03-08T00:00:00Z"
 doi: "10.1093/brain/awab441"
 featured: false
 image: 
@@ -17,12 +17,12 @@ publication: 'Brain, doi: 10.1093/brain/awab441'
 publication_short: "Brain, doi: 10.1093/brain/awab441"
 publication_types:
 - "2"
-publishDate: "2021-10-29T00:00:00Z"
+publishDate: "2022-03-08T00:00:00Z"
 slides: 
 summary:
 tags: [Brain tumors,Theory of Mind,Mentalizing,Perspective taking,Affective Theory of Mind,Lesion symptom mapping]
 title: Cognitive and affective Theory of Mind double dissociation after parietal and temporal lobe tumors
-url_code: ""
+url_code: "https://www.biorxiv.org/content/biorxiv/early/2021/10/28/2021.10.26.465856/DC1/embed/media-1.zip"
 url_dataset: ""
 url_pdf: ""
 url_preprint: "https://www.biorxiv.org/content/10.1101/2021.10.26.465856"
