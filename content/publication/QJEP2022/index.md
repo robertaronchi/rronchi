@@ -3,7 +3,7 @@ abstract: In the last two years, governments of many countries imposed heavy soc
 authors:
 - Lia Antico
 - admin
-date: "2021-01-01T00:00:00Z"
+date: "2022-03-15T00:00:00Z"
 doi: "10.31234/osf.io/ewvp7"
 featured: false
 image: 
@@ -11,17 +11,17 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'PsyArXiv, doi: 10.31234/osf.io/ewvp7'
-publication_short: "PsyArXiv, doi: 10.31234/osf.io/ewvp7"
+publication: 'Quarterly Journal of Experimental Psychology'
+publication_short: "QJEP"
 publication_types:
-- "3"
-publishDate: "2021-01-01T00:00:00Z"
+- "2"
+publishDate: "2022-03-15T00:00:00Z"
 slides: 
 summary:
 tags: [pain,emotion,Unpleasantness,Social cognition,Social interactions,Social Exclusion,Cyberball,Social Distress,disgust,Covid-19,Facial Expressions,emotion expression]
 title: Far from the eyes, far from the heart. COVID-19 confinement dampened sensitivity to painful facial features
 url_code: ""
-url_dataset: ""
+url_dataset: "https://osf.io/fnjd8/"
 url_preprint: "https://psyarxiv.com/ewvp7/"
 url_poster: ""
 url_project: ""

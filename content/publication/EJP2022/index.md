@@ -6,7 +6,7 @@ authors:
 - Louis Schumacher
 - admin
 date: "2022-03-13T00:00:00Z"
-doi: "10.31234/osf.io/b982h"
+doi: "10.1002/ejp.1940"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
