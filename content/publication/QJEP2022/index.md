@@ -4,7 +4,7 @@ authors:
 - Lia Antico
 - admin
 date: "2022-03-15T00:00:00Z"
-doi: "10.31234/osf.io/ewvp7"
+doi: "10.1177/17470218221094772"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
