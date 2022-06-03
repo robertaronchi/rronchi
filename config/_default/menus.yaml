@@ -20,7 +20,7 @@ main:
     url: '#projects'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#rec_publications'
     weight: 50
   - name: Keywords
     url: '#tags'
