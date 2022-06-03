@@ -54,7 +54,7 @@ social:
   link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/corrado-corradi-dell-acqua-77390ab8/
+  link: https://www.linkedin.com/in/corrado-corradi/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

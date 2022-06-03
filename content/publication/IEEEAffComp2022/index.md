@@ -6,7 +6,7 @@ authors:
 - Cyrielle Chappuis
 - Gil Sharvit
 - admin
-date: "2020-01-01T00:00:00Z"
+date: "2022-06-03T00:00:00Z"
 doi: "10.1109/TAFFC.2020.2965105"
 featured: false
 image: 
@@ -15,9 +15,9 @@ image:
   preview_only: true
 projects: [manage]
 publication: 'IEEE
-Transactions on Affective Computing, Epub ahead of Print'
+Transactions on Affective Computing, 2022, 13(2), 793-804'
 publication_short: "IEEE
-Trans. Aff. Comp., Epub ahead of Print"
+Trans. Aff. Comp., 2022, 13(2), 793-804"
 publication_types:
 - "2"
 publishDate: ""
