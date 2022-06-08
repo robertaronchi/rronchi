@@ -28,21 +28,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-	- course: PhD in Neuroscience
-	  institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
-      year: 2007
-    - course: MS in Psychology
-      institution: UHSR, University Hospital San Raffaele, Milan, Italy
-      year: 2001
+  - course: PhD in Neuroscience
+    institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
+    year: 2007
+  - course: MS in Psychology
+    institution: UHSR, University Hospital San Raffaele, Milan, Italy
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: envelope
     icon_pack: fas
     link: mailto:corrado.corradi@outlook.com #'/#contact'
