@@ -3,7 +3,7 @@ abstract: Theoretical accounts of pain and empirical evidence indicate that pain
 authors:
 - Nicolas Silvestrini
 - admin
-date: "2021-08-27T00:00:00Z"
+date: "2022-06-08T00:00:00Z"
 doi: "10.31234/osf.io/gwaup"
 featured: false
 image: 
@@ -11,8 +11,8 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'PsyArXiv, doi: 10.31234/osf.io/gwaup'
-publication_short: "PsyArXiv, doi: 10.31234/osf.io/gwaup"
+publication: 'Journal of Psychophysiology, doi: 10.31234/osf.io/gwaup'
+publication_short: "J Psychophysiol., doi: 10.31234/osf.io/gwaup"
 publication_types:
 - "3"
 publishDate: "2021-08-27T00:00:00Z"
