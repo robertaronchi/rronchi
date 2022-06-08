@@ -14,7 +14,7 @@ projects: []
 publication: 'Journal of Psychophysiology, doi: 10.31234/osf.io/gwaup'
 publication_short: "J Psychophysiol., doi: 10.31234/osf.io/gwaup"
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-08-27T00:00:00Z"
 slides: 
 summary:
