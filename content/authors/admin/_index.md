@@ -10,65 +10,67 @@ role: Neuroscientist - Cognitive Psychologist - Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Geneva
-  url: https://www.unige.ch/
+  - name: University of Geneva
+    url: https://www.unige.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 # Interests to show in About widget
 interests:
-- Pain
-- Chemosensation
-- Affective Processing
-- Social Cognition
-- Decision-Making
-- Cognitive Neuroscience
+  - Pain
+  - Chemosensation
+  - Affective Processing
+  - Social Cognition
+  - Decision-Making
+  - Cognitive Neuroscience
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
-    year: 2007
-  - course: MS in Psychology
-    institution: UHSR, University Hospital San Raffaele, Milan, Italy
-    year: 2001
+	- course: PhD in Neuroscience
+	  institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
+      year: 2007
+    - course: MS in Psychology
+      institution: UHSR, University Hospital San Raffaele, Milan, Italy
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:corrado.corradi@outlook.com #'/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CorradoCorradiD
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/corrado-corradi/
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:corrado.corradi@outlook.com #'/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/CorradoCorradiD
+  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/corrado-corradi/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/CV_ENG_Picture.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_ENG_Picture.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "corrado.corradi@outlook.com"
+email: 'corrado.corradi@outlook.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
-
 ---
 
 I am a Cognitive neuroscientist and psychologist with long-lasting  experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
