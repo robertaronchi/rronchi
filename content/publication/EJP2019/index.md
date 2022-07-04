@@ -19,7 +19,7 @@ publication_types:
 publishDate: "2019-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,emotion,Unpleasantness,Social cognition,disgust,Facial expressions,face processing,emotion expression,Electrophysiology,Skin Conductance Response,olfaction]
+tags: [pain,nociception,emotion,Unpleasantness,Social cognition,disgust,Facial expressions,face processing,emotion expression,Electrophysiology,Skin Conductance Response,olfaction,sequential-task paradigm]
 title: Does my pain affect your disgust? Cross-modal influence of first-hand aversive experiences in the appraisal of others' facial expressions
 url_code: ""
 url_dataset: ""

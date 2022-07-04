@@ -21,7 +21,7 @@ publication_types:
 publishDate: "2018-12-01T00:00:00Z"
 slides: 
 summary:
-tags: [Social cognition,Social interactions,emotion,olfaction,pain,nociception,Electrophysiology,Social Exclusion,Cyberball,Social Distress]
+tags: [Social cognition,Social interactions,emotion,olfaction,pain,nociception,Electrophysiology,cardiac response,Social Exclusion,Cyberball,Social Distress,sequential-task paradigm]
 title: Beyond unpleasantness. Social exclusion affects the experience of pain, but not of equally-unpleasant disgust
 url_code: ""
 url_dataset: "https://osf.io/zty6r/"

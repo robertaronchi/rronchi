@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2015-12-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,emotion,Unpleasantness,olfaction,disgust,attention,Expectancy,Nocebo,Anticipation,Top-down,Bayesian Coding,Electrophysiology,Skin Conductance Response]
+tags: [pain,nociception,emotion,Unpleasantness,olfaction,disgust,attention,Expectancy,Nocebo,Anticipation,Top-down,Bayesian Coding,Electrophysiology,Skin Conductance Response,cardiac response,sequential-task paradigm]
 title: Cross-modal and modality-specific expectancy effects between pain and disgust
 url_code: ""
 url_dataset: ""

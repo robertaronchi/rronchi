@@ -6,6 +6,7 @@ tags:
 - empathy
 - emotion
 - Unpleasantness
+- arousal
 - moral cognition
 - Unfairness
 - Self-Other distinction

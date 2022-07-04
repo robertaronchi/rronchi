@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2020-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,emotion,Unpleasantness,decision-making,moral cognition,Social cognition,olfaction,disgust,Electrophysiology,Skin Conductance Response,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex]
+tags: [pain,nociception,emotion,Unpleasantness,decision-making,moral cognition,Social cognition,olfaction,disgust,Electrophysiology,Skin Conductance Response,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex,sequential-task paradigm]
 title: Does inappropriate behaviour hurt or stink? The interplay between neural representations of somatic experiences and moral decisions
 url_code: "https://osf.io/jkrvp/"
 url_dataset: ""

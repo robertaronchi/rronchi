@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2022-03-15T00:00:00Z"
 slides: 
 summary:
-tags: [pain,emotion,Unpleasantness,Social cognition,Social interactions,Social Exclusion,Cyberball,Social Distress,disgust,Covid-19,Facial Expressions,emotion expression]
+tags: [pain,emotion,empathy,disgust,Unpleasantness,Social cognition,Social interactions,Social Exclusion,Cyberball,Social Distress,Facial Expressions,face processing,emotion expression,Covid-19,sequential-task paradigm]
 title: Far from the eyes, far from the heart. COVID-19 confinement dampened sensitivity to painful facial features
 url_code: ""
 url_dataset: "https://osf.io/fnjd8/"

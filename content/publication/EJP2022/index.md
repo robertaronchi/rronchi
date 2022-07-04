@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2022-03-13T00:00:00Z"
 slides: 
 summary:
-tags: [pain,analgesia,Pain Management,decision-making,Self-Other distinction,third party,Social interactions,Expectancy,Anticipation,risk,Reward,Feedback,Uncertainty]
+tags: [pain,nociception,analgesia,Pain Management,Expectancy,Anticipation,Uncertainty,risk,decision-making,Social cognition,Self-Other distinction,third party,Social interactions,Reward,economical choice,Feedback,Covid-19]
 title: The Effect of Uncertainty on Pain Decisions for Self and Others
 url_code: ""
 url_dataset: ""

@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: []
+projects: [executive_pain]
 publication: 'Journal of Psychophysiology, doi: 10.31234/osf.io/gwaup'
 publication_short: "J Psychophysiol., doi: 10.31234/osf.io/gwaup"
 publication_types:
@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2021-08-27T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,Electrophysiology,cardiovascular reactivity,effort,sequential-task paradigm,fatigue]
+tags: [pain,nociception,attention,cognitive control,Top-down,Bottom-up,effort,sequential-task paradigm,fatigue,Electrophysiology,cardiovascular reactivity]
 title: The Impact of Pain on Subsequent Effort and Cognitive Performance
 url_code: ""
 url_dataset: ""

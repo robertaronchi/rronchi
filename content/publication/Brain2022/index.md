@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2022-03-08T00:00:00Z"
 slides: 
 summary:
-tags: [Brain tumors,Theory of Mind,Mentalizing,Perspective taking,Affective Theory of Mind,Lesion symptom mapping]
+tags: [Brain tumors,emotion,Social cognition,Theory of Mind,Mentalizing,Perspective taking,Affective Theory of Mind,Lesion symptom mapping,Insula,Amygdala,parietal cortex]
 title: Cognitive and affective Theory of Mind double dissociation after parietal and temporal lobe tumors
 url_code: "https://www.biorxiv.org/content/biorxiv/early/2021/10/28/2021.10.26.465856/DC1/embed/media-1.zip"
 url_dataset: ""

@@ -1,0 +1,85 @@
+pain,nociception
+analgesia,Pain Management
+emotion,Unpleasantness
+arousal
+olfaction,disgust
+attention
+cognitive control
+Expectancy,Nocebo,Anticipation
+Uncertainty,risk
+Top-down,Bottom-up
+Bayesian Coding
+decision-making
+moral cognition,Deontic reasoning,Impression formation
+empathy
+Social cognition
+Self-Other distinction,third party
+Social Influence,Conformity
+Social interactions,Social Exclusion,Cyberball
+Social Distress
+Reward
+Facial Expressions,face processing,emotion expression
+spatial frequency
+Theory of Mind,Mentalizing,Perspective taking
+Affective Theory of Mind
+Unfairness
+Ultimatum Game,economical choice
+Altruistic punishment,Utilitarian rejections
+Body Schema,Body Structural Description,body representation,Body,Sense of Body
+Buildings
+intransitive gesture,dual route
+language
+action
+Movement control,Isochrony,Two-thirds Power Law,Finger movement
+grounded cognition
+emotion induction
+Fear,Joy,Frustration
+Handedness task
+Biological movement
+Feedback,Error
+Spatial coding
+Agency,Disembodiment,Self-objectification
+self-injury
+attachment style
+Heart beat counting task,Interoception
+sensory modulation
+effort,fatigue
+sequential-task paradigm
+
+Electrophysiology,Skin Conductance Response
+cardiac response,cardiovascular reactivity,heart rate variability
+TMS
+
+fMRI,neuroimaging
+high-resolution
+voxel-based morphometry
+Lesion symptom mapping
+connectivity,structural equation modeling
+MVPA
+Representation Similarity
+Whole-Brain Signatures
+Insula
+Cingulate Cortex
+Amygdala
+ventral striatum,nucleus accumbens
+superior temporal sulcus
+TPJ
+dMPFC
+Prefrontal cortex
+Parietal operculum
+parietal cortex
+mirror neuron system
+motor system
+entorhinal cortex
+Fusiform Gyrus
+EBA,PPA
+
+Borderline Personality Disorder
+apraxia
+aphasia
+autism
+Amelia,Birth disorders
+Parkinson's disease
+autotopagnosia
+Covid-19
+Brain tumors

@@ -22,7 +22,7 @@ publication_types:
 publishDate: "2020-04-01T00:00:00Z"
 slides: 
 summary:
-tags: [Theory of Mind,Mentalizing,Perspective taking,empathy,pain,Lesion symptom mapping,Affective Theory of Mind,Insula,Prefrontal cortex]
+tags: [Theory of Mind,Mentalizing,Perspective taking,empathy,pain,Lesion symptom mapping,connectivity,Affective Theory of Mind,Insula,Prefrontal cortex]
 title: Deficits in cognitive and affective theory of mind relate to dissociated lesion patterns in prefrontal and insular cortex
 url_code: ""
 url_dataset: https://osf.io/v94pf/

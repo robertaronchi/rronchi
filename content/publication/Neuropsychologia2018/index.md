@@ -20,7 +20,7 @@ publication_types:
 publishDate: "2018-07-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,empathy,emotion,emotion induction,Unpleasantness,Fear,Joy,Social cognition,Perspective taking,Insula,Cingulate Cortex,Prefrontal cortex,fMRI,neuroimaging,MVPA,Representation Similarity]
+tags: [pain,nociception,empathy,emotion,emotion induction,Unpleasantness,Fear,Joy,Social cognition,Perspective taking,Insula,Cingulate Cortex,Prefrontal cortex,fMRI,neuroimaging,MVPA,Representation Similarity,sequential-task paradigm]
 title: The good, the bad, and the suffering. Transient emotional episodes modulate the neural circuits of pain and empathy
 url_code: ""
 url_dataset: ""

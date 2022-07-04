@@ -22,7 +22,7 @@ publication_types:
 publishDate: "2009-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [Parietal operculum,fMRI,neuroimaging,superior temporal sulcus,Spatial coding,Finger movement]
+tags: [Parkinson's disease,Movement control,Isochrony,Two-thirds Power Law,action,Finger movement]
 title: "Velocity control in Parkinson's disease: A quantitative analysis of isochrony in scribbling movements"
 url_code: ""
 url_dataset: ""

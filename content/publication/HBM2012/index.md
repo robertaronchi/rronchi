@@ -26,7 +26,7 @@ publication_types:
 publishDate: "2012-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [Prefrontal cortex,Amygdala,entorhinal cortex,structural equation modeling,voxel-based morphometry]
+tags: [Prefrontal cortex,Amygdala,entorhinal cortex,connectivity,structural equation modeling,voxel-based morphometry]
 title: Thalamic-insular dysconnectivity in Schizophrenia. Evidence from structural equation modeling 
 url_code: ""
 url_dataset: ""

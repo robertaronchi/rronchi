@@ -19,7 +19,7 @@ publication_types:
 publishDate: "2018-08-07T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,Unpleasantness,olfaction,disgust,attention,Expectancy,Nocebo,Top-down,Bayesian Coding,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,TPJ]
+tags: [pain,nociception,Unpleasantness,olfaction,disgust,attention,Expectancy,Nocebo,Top-down,Bayesian Coding,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,TPJ,sequential-task paradigm]
 title: Modality-specific effects of aversive expectancy in the anterior insula and medial prefrontal cortex
 url_code: ""
 url_dataset: ""

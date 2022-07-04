@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage,embody]
+projects: [manage,embody,executive_pain]
 publication: 'bioRxiv, doi: 10.1101/2021.07.01.450687'
 publication_short: "bioRxiv, doi: 10.1101/2021.07.01.450687"
 publication_types:
@@ -21,7 +21,7 @@ publication_types:
 publishDate: "2021-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,empathy,neuroimaging,Handedness task,MVPA,Representation Similarity,fMRI,Insula,Cingulate Cortex]
+tags: [pain,nociception,empathy,Social cognition,Social interactions,Theory of Mind,Mentalizing,Perspective taking,Affective Theory of Mind,Handedness task,fMRI,neuroimaging,MVPA,Representation Similarity,Whole-Brain Signatures,Insula,Cingulate Cortex]
 title: Healthcare experience disrupts representational similarity between one’s and others’ pain in anterior insula
 url_code: ""
 url_dataset: "https://osf.io/8bjmq/"

@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: []
+projects: [executive_pain]
 publication: 'bioRxiv, doi: 10.1101/2022.06.20.496774'
 publication_short: "bioRxiv, doi: 10.1101/2022.06.20.496774"
 publication_types:
@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2022-06-26T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,empathy,cognitive control,sequential-task paradigm,fatigue,fMRI,neuroimaging,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,parietal cortex]
+tags: [pain,nociception,attention,cognitive control,Top-down,Bottom-up,effort,fatigue,sequential-task paradigm,fMRI,neuroimaging,connectivity,MVPA,Whole-Brain Signatures,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,parietal cortex]
 title: Distraction and cognitive control independently impact parietal and prefrontal neural response to pain
 url_code: ""
 url_dataset: ""

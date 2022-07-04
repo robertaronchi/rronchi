@@ -14,7 +14,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage,embody]
+projects: [manage,embody,executive_pain]
 publication: 'bioRxiv, doi: 10.1101/2022.06.09.495450'
 publication_short: "bioRxiv, doi: 10.1101/2022.06.09.495450"
 publication_types:
@@ -22,7 +22,7 @@ publication_types:
 publishDate: "2021-06-13T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,empathy,Electrophysiology,effort,sequential-task paradigm,fatigue,Pain Management,decision-making,Self-Other distinction,third party,Social interactions]
+tags: [pain,nociception,Pain Management,empathy,attention,cognitive control,Top-down,Bottom-up,empathy,Social cognition,Self-Other distinction,third party,Social interactions,effort,fatigue,sequential-task paradigm,Electrophysiology,Skin Conductance Response,heart rate variability,cardiac response]
 title: Cognitive exertion affects the appraisal of one's own and other people's pain
 url_code: ""
 url_dataset: ""
