@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage,embody,executive_pain]
+projects: [manage,embody]
 publication: 'bioRxiv, doi: 10.1101/2021.07.01.450687'
 publication_short: "bioRxiv, doi: 10.1101/2021.07.01.450687"
 publication_types:

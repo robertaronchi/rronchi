@@ -1,5 +1,5 @@
 ---
-title: Pain & Executive Functions
+title: Regulating Pain
 summary: How pain interacts with high level executive functions.
 tags:
 - pain
