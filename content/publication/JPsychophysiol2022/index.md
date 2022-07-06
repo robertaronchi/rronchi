@@ -4,15 +4,15 @@ authors:
 - Nicolas Silvestrini
 - admin
 date: "2022-06-08T00:00:00Z"
-doi: "10.31234/osf.io/gwaup"
+doi: "10.1027/0269-8803/a000308"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: [executive_pain]
-publication: 'Journal of Psychophysiology, doi: 10.31234/osf.io/gwaup'
-publication_short: "J Psychophysiol., doi: 10.31234/osf.io/gwaup"
+publication: 'Journal of Psychophysiology, doi: 10.1027/0269-8803/a000308'
+publication_short: "J Psychophysiol., doi: 10.1027/0269-8803/a000308"
 publication_types:
 - "2"
 publishDate: "2021-08-27T00:00:00Z"
