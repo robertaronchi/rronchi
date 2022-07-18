@@ -26,10 +26,14 @@ feature:
   icon: MRI
   icon_pack: custom
   name: fMRI
-- description: "Analysis of galvanic and cardiac responses to investigate human affect"
-  icon: Physio
-  icon_pack: custom
-  name: Psychophysiology
+- description: "Proficient writer for both scientific journals (> 40 peer-reviewed articles) and funding schemes."
+  icon: edit
+  icon_pack: fas
+  name: Scientific Writing
+#- description: "Analysis of galvanic and cardiac responses to investigate human affect"
+#  icon: Physio
+#  icon_pack: custom
+#  name: Psychophysiology
 - description: More than a decade of experience in the study of the cognitive and neural mechanisms of Pain
   icon: Pain
   icon_pack: custom
@@ -42,10 +46,6 @@ feature:
   icon: users
   icon_pack: fas
   name: Principal Investigator
-#- description: "37 scientific peer-reviewed publications. H-index = 16, > 900 citations (Web of Science)."
-#  icon: edit
-#  icon_pack: fas
-#  name: Scientific Writing
 #- description: "Secured and managed funding for ~ 2’800’000 € across different projects"
 #  icon: coins
 #  icon_pack: fas
