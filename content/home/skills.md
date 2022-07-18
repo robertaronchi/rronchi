@@ -26,6 +26,10 @@ feature:
   icon: MRI
   icon_pack: custom
   name: fMRI
+- description: More than a decade of experience in the study of the cognitive and neural mechanisms of Pain
+  icon: Pain
+  icon_pack: custom
+  name: Pain
 - description: "Proficient writer for both scientific journals (> 40 peer-reviewed articles) and funding schemes."
   icon: edit
   icon_pack: fas
@@ -34,10 +38,6 @@ feature:
 #  icon: Physio
 #  icon_pack: custom
 #  name: Psychophysiology
-- description: More than a decade of experience in the study of the cognitive and neural mechanisms of Pain
-  icon: Pain
-  icon_pack: custom
-  name: Pain
 #- description: Long-lasting experience in chemosensory and disgust processing
 #  icon: Smell
 #  icon_pack: custom
