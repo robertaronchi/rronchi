@@ -32,7 +32,7 @@ education:
     institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
     year: 2007
   - course: MS in Psychology
-    institution: UHSR, University Hospital San Raffaele, Milan, Italy
+    institution: Vita-Salute San Raffaele University, Milan, Italy
     year: 2001
 
 # Social/Academic Networking
