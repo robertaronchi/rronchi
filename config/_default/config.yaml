@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Corrado Corradi-Dell'Acqua # Website name
-baseURL: 'https://www.corradocorradi.org/' # Website URL
+title: Roberta Ronchi # Website name
+baseURL: 'https://robertaronchi.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE

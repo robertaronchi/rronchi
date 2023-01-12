@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Corrado Corradi˗Dell'Acqua
+title: Roberta Ronchi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Neuroscientist - Cognitive Psychologist - Data Scientist
+role: Clinical Neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Geneva
-    url: https://www.unige.ch/
+  - name: University Hospital of Geneva
+    url: https://www.hug.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Pain
-  - Chemosensation
-  - Affective Processing
-  - Social Cognition
-  - Decision-Making
-  - Cognitive Neuroscience
+  - Right-hemisphere Patients
+  - Unilateral Spatial Neglect
+  - Perseverations
+  - Cognitive Rehabilitation
+  - Body Ownership
+  - Self Awareness
+  - Anosognosia
+  - Cardio-visual integration
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: International School for Advanced Studies (SISSA/ISAS), Trieste, Italy
-    year: 2007
-  - course: MS in Psychology
-    institution: Vita-Salute San Raffaele University, Milan, Italy
-    year: 2001
+  - course: PhD in Experimental Psychology, Linguistics and Cognitive Neuroscience
+    institution: University of Milano-Bicocca, Italy
+    year: 2011
+  - course: MS in Clinical Psychology and Neuropsychology
+    institution: University of Milano-Bicocca, Italy
+    year: 2006
+  - course: BS in Psychology
+    institution: University of Milano-Bicocca, Italy
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,38 +47,35 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:corrado.corradi@outlook.com #'/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/CorradoCorradiD
-  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
+    link: mailto:roberta.ronchi@unige.ch #'/#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/CorradoCorradiD
+#  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: ai
+#    link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/corrado-corradi/
+    link: https://www.researchgate.net/profile/Roberta_Ronchi2
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/corrado-corradi/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_ENG_Picture.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'corrado.corradi@outlook.com'
+email: 'roberta.ronchi@unige.ch'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a Cognitive neuroscientist and psychologist with long-lasting  experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
+I  am a clinical neuropsychologist and a neuroscience researcher at the University Hospital of Geneva and the Campus Biotech. My main research interest lies in the study of cognitive deficits following right-brain damage. In particular, I focused on different characteristics of unilateral spatial neglect following right brain damage, including productive symptoms, and new assessment and rehabilitative tools to better evaluate and restore neuropsychological symptoms.
 
-I am also invested in understanding the cognitive and neural processes underlying the diagnosis and management of people’s pain. This is a research line with both fundamental and translational relevance, and organized on the following axes: neural/physiological fingerprinting of somatic affect,
-prediction of real-life pain-management behaviour from brain activity, and
-effect of attention on pain experience and relief.
+I am currently carrying out a project to better understand and treat the presence of unawareness for neurological illness (anosognosia) in patients with and without unilateral spatial neglect, combining behavioural, lesional and electrophysiological measures. Finally, I am also investigating different bodily disorders, such as personal neglect and somatoparaphrenia.
 
-{{< icon name="hand-point-right" pack="fas" >}} Please check all my {{< staticref "#projects" >}}Research Projects{{< /staticref >}}
