@@ -10,7 +10,7 @@ authors:
 - Frédéric Assal
 - Didier Grandjean
 - Julie Péron
-date: "2023-11-01T00:00:00Z"
+date: "2023-01-11T00:00:00Z"
 doi: "10.1093/texcom/tgad002"
 featured: false
 image: 
@@ -22,7 +22,7 @@ publication: "Cerebral Cortex Communications, tgad002"
 publication_short: "Cerebral Cortex, tgad002"
 publication_types:
 - "2"
-publishDate: "2023-11-01T00:00:00Z"
+publishDate: "2023-01-11T00:00:00Z"
 slides: 
 summary:
 tags: [Vocal emotion,Cerebellum,fMRI,Lesion symptom mapping,connectivity]
