@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Research Assistant
-tags: Research Assistant
-title: Eugénie Cataldo
+summary: Master student Medecine
+tags: Master student
+title: Geronimo Jones
 ---

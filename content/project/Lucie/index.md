@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Research Assistant
-tags: Research Assistant
-title: Eugénie Cataldo
+summary: Master student Psychology
+tags: Master student
+title: Lucie Berset
 ---
