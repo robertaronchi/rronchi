@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Post-Doc.
+summary: Research Assistant
 tags:
-title: Dr. Eda Tipura
+title: Eugénie Cataldo
 ---
