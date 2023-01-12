@@ -18,54 +18,38 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: More than a decade of experience in the study of a human brain
-  icon: NeuroPsy
+- description: More than a decade of experience as cinical neuropsychologist
+  icon: NeuropsyPink
   icon_pack: custom
-  name: Neuroscience & Psychology
-- description: "Investigating brain activity with functional Magnetic Resonance Imaging"
-  icon: MRI
+  name: Neuropsychology
+- description: Strong research record in mapping lesions and correlate them to deficits
+  icon: brain
+  icon_pack: fas
+  name: Lesion Symptom Mapping
+- description: Application of state-of-the-art EEG to investigate dysfunctional neural processing
+  icon: EEG
   icon_pack: custom
-  name: fMRI
-- description: More than a decade of experience in the study of the cognitive and neural mechanisms of Pain
-  icon: Pain
+  name: Electroencephalography
+- description: Involved in numerous rehabilitation protocols for rehabilitation of stroke deficits
+  icon: Rehab
   icon_pack: custom
-  name: Pain
-- description: "Proficient writer for both scientific journals (> 40 peer-reviewed articles) and funding schemes."
-  icon: edit
-  icon_pack: fas
-  name: Scientific Writing
-#- description: "Analysis of galvanic and cardiac responses to investigate human affect"
-#  icon: Physio
-#  icon_pack: custom
-#  name: Psychophysiology
-#- description: Long-lasting experience in chemosensory and disgust processing
-#  icon: Smell
-#  icon_pack: custom
-#  name: Disgust
-- description: Extensive experience as laboratory director and team leader.
-  icon: users
-  icon_pack: fas
-  name: Principal Investigator
-#- description: "Secured and managed funding for ~ 2’800’000 € across different projects"
-#  icon: coins
-#  icon_pack: fas
-#  name: Funding Manegement
-- description: "Long lasting coding experience across different programming languages (chiefly Matlab)"
-  icon: file-code
-  icon_pack: fas
-  name: Programming
-- description: Extensive experience in data analysis/modeling across different platforms (R, Matlab, SPSS)
+  name: Rehabilitation
+- description: Development of VR protocols for rehabilitation
+  icon: VR
+  icon_pack: custom
+  name: Virtual Reality
+- description: Application of non-invasive neuro-stimulation techniques to modulate brain activity
+  icon: BrainStimulation
+  icon_pack: custom
+  name: tDCS
+- description: Long-lasting experience in univariate data analysis
   icon: chart-line
   icon_pack: fas
-  name: Data Analysis
-- description: Employment of decoding techniques (SVM, Random Forest, Lasso) to predict behavior from brain activity. 
-  icon: ML
-  icon_pack: custom
-  name: Machine Learning
-- description: If you handle two kids, you can handle anything
+  name: Statistics
+- description: Let's face it. It is a parallel 100% job!
   icon: baby
   icon_pack: fas
-  name: Father
+  name: Mother
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
