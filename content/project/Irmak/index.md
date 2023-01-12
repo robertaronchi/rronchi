@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Post-Doc
-tags: Post-Doc
-title: Dr. Eda Tipura
+summary: Research Assistant
+tags: Research Assistant
+title: Irmak Ozarslan
 ---
