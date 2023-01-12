@@ -5,6 +5,7 @@ image:
   caption: 
   focal_point: Smart
 summary: Master student Psychology
-tags: 
+tags:
+- Master Student  
 title: Amédée Liardet
 ---

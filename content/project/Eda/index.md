@@ -6,5 +6,6 @@ image:
   focal_point: Smart
 summary: Post-Doc
 tags:
+- Post-Doc
 title: Dr. Eda Tipura
 ---

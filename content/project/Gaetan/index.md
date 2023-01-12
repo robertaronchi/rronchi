@@ -5,6 +5,7 @@ image:
   caption: 
   focal_point: Smart
 summary: Master student Medicine
-tags: 
+tags:
+- Master Student 
 title: Gaetan Meystre
 ---

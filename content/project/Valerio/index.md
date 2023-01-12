@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Master student Psychology
 tags:
-- Master
+- Master Student
 title: Valerio Baldoni
 ---

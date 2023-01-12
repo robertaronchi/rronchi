@@ -6,5 +6,6 @@ image:
   focal_point: Smart
 summary: Master student Psychology
 tags: 
+- Master Student
 title: Lucie Berset
 ---

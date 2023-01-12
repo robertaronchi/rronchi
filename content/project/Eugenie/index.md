@@ -6,5 +6,6 @@ image:
   focal_point: Smart
 summary: Research Assistant
 tags:
+- Research Assistant
 title: Eugénie Cataldo
 ---

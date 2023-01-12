@@ -5,6 +5,7 @@ image:
   caption: 
   focal_point: Smart
 summary: Research Assistant
-tags: 
+tags:
+- Research Assistant
 title: Isabele Jacot de Alcântara
 ---
