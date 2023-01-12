@@ -29,11 +29,11 @@ tags: [Vocal emotion,Cerebellum,fMRI,Lesion symptom mapping,connectivity]
 title: Dysfunctional cerebello-cerebral network associated with vocal emotion recognition impairments
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://academic.oup.com/cercorcomms/advance-article/doi/10.1093/texcom/tgad002/6984623"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://academic.oup.com/cercorcomms/advance-article/doi/10.1093/texcom/tgad002/6984623"
+url_source: ""
 url_video: ""
 
 ---
