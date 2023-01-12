@@ -29,7 +29,7 @@ item:
   description: ""
   organization: HUG research funding
   organization_url: ""
-  title: This is not my body: the disrupted bodily self of neurological patients
+  title: This is not my body. the disrupted bodily self of neurological patients
   url: ""
 - certificate_url: ""
   date_end: "2023-09-01"
