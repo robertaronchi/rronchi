@@ -13,12 +13,12 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
+  - name: Team
+    url: '#Team'
+    weight: 35
   - name: Grants
     url: '#Grants'
-    weight: 35
-#  - name: Research
-#    url: '#projects'
-#    weight: 40
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
