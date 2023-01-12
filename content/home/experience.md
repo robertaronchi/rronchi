@@ -22,66 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Head Neuropsycologist
-    company: Neurology Unit, University Hospital of Geneva
-    company_url: 'https://www.hug.ch/neurologie/equipe-unite-neuropsychologie'
+  - title: Maître d’enseignement et de recherché (Lecturer)
+    company: Faculty of Medicine, University of Geneva
+    company_url: 'https://www.unige.ch/medecine/'
     company_logo: 
-    location: Geneva (Switzerland)
-    date_start: '2021-10-01'
+    location: Geneva, Switzerland
+    date_start: '2022-01-01'
     date_end: ''
-    description: I am the chief of the neuropsychology team (7 people) at the Neurology Unit of the University Hospital of Geneva. 
+    description:
 
-
-  - title: Clinical Neuropsycologist
-    company: Neurology Unit, University Hospital of Geneva
-    company_url: 'https://www.hug.ch/neurologie/equipe-unite-neuropsychologie'
+  - title: Assistant Professor
+    company: Faculty of Psychology and Educational Sciences (FPSE), University of Geneva
+    company_url: 'https://www.unige.ch/fapse/toplab/'
     company_logo: 
-    location: Geneva (Switzerland)
-    date_start: '2019-01-01'
-    date_end: '2021-09-30'
-    description: I am the referent for the cognitive assessment after right-brain stroke lesion (diagnosis and early rehabilitation) at the Neurology Unit of the University Hospital of Geneva. 
-
-  - title: Post-doctoral Position
-    company: Laboratory of Neuroimaging and Cognition (P. Vuilleumier), University of Geneva
-    company_url: 'https://www.unige.ch/medecine/neuf/en/research/grecherche/patrik-vuilleumier/'
-    company_logo: 
-    location: Geneva (Switzerland)
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        I investigate unawareness of neurological diseases, and of spatial neglect symptoms in brain-damaged patients. Use of behavioural, physiological and brain-stimulation techniques.
-
-        I am also involved in a rehabilitation research project on neurofeedback training in brain-damaged patients with unilateral spatial neglect.
+    location: Geneva, Switzerland
+    date_start: '2015-09-01'
+    date_end: '2021-12-31'
+    description: I have been coordinating my own research team, comprehending 2 post-doc, 4 doctoral students, 11 master students, and 4 interns. During this time, I’ve been managing my own SNSF fellowship.
         
-  - title: Post-doctoral Position
-    company: Laboratory of Cognitive Neuroscience (O. Blanke), École Polytechnique Fédérale de Lausanne (EPFL)
-    company_url: 'https://www.epfl.ch/labs/lnco/'
+  - title: Post-doc & Maître assistant
+    company: Swiss Centre for Affective Sciences, University of Geneva
+    company_url: 'https://www.unige.ch/cisa/'
     company_logo: 
-    location: Lausanne (Switzerland)
-    date_start: '2013-01-01'
-    date_end: '2016-12-01'
-    description: |2-
-        I investigated Bodily self-consciousness in healthy participants and brain-damaged patients, using virtual reality and multisensory stimulation.
-        
-        I was also involved in projects investigating the mechanisms underlying cardio-visual interaction, and their potential applications for releiving pain in patients with chronic syndroms and spinal cord injury.
+    location: Geneva, Switzerland
+    date_start: '2009-10-01'
+    date_end: '2015-08-01'
+    description:  I worked in the laboratory of Prof. Patrik Vuilleumier, where I was tasked to design and carry-out research projects, acquire and analyze associated data, draft and publish scientific articles, and supervise doctoral/master students.
 
-  - title: Post-doctoral Position
-    company: Laboratory of Neuropsychology (G. Vallar), IRRCS Istituto Auxologico Italiano
-    company_url: ''
+  - title: Post-doc
+    company: Cognitive Neuroscience Sector, International School for Advanced Studies (SISSA/ISAS)
+    company_url: 'https://phdcns.sissa.it/'
     company_logo: 
-    location: Milano (Italy)
-    date_start: '2011-02-01'
-    date_end: '2012-12-01'
-    description: I was involved in projects investigating Unilateral spatial neglect manifestations, such as productive symptoms and anosognosia. I also investigated new methods for assessment and rehabilitation of spatial neglect.     
+    location: Trieste, Italy
+    date_start: '2007-12-01'
+    date_end: '2009-09-01'
+    description:  I worked in the laboratory of Prof. Raffaella I. Rumiati, where I was tasked to design and carry-out research projects, acquire and analyze associated data, draft and publish scientific articles, and assist in the supervision of doctoral students.
 
-  - title: Clinical Neuropsycologist
-    company: IRRCS Istituto Auxologico Italiano
-    company_url: ''
+  - title: Research Assistant
+    company: Institute of Neuroscience and Biophysics, Research Centre Jülich
+    company_url: 'https://www.fz-juelich.de/inm/inm-3/EN/Home/home_node.html'
     company_logo: 
-    location: Milano (Italy)
-    date_start: '2009-09-01'
-    date_end: '2012-12-01'
-    description:    
+    location: Jülich, Germany
+    date_start: '2006-02-01'
+    date_end: '2007-10-01'
+    description:  I worked in the laboratory of Prof. Gereon R. Fink, where I was tasked to design and carry-out research projects, acquire and analyze associated data, and draft/publish scientific articles.
 
 design:
   columns: '2'

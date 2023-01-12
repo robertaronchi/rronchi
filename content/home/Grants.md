@@ -24,45 +24,46 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: "2023-08-31"
-  date_start: "2022-09-01"
-  description: ""
-  organization: HUG research funding
-  organization_url: ""
-  title: This is not my body: the disrupted bodily self of neurological patients
-  url: ""
-- certificate_url: ""
-  date_end: "2023-09-01"
-  date_start: "2021-09-01"
-  description: ""
-  organization: SNSF Project Funding
-  organization_url: https://www.snf.ch/
-  title: This is not my body. The disrupted bodily self of neurological patients
+  date_end: ""
+  date_start: "2020-06-01"
+  description: "Creation and validation of an innovative VR tool from Geneva *(Principal Investigator: Cyril Sahyoun)*"
+  organization: Fondation Privée des HUG
+  organization_url: https://www.fondationhug.org/
+  title: "VRelief: the vitual reality to prevent and relief pain in hospitalized children"
   url: ""
 - certificate_url: 
-  date_end: "2021-12-01"
-  date_start: "2020-01-01"
-  description: ""
-  organization: Boninchi Foundation
-  organization_url: https://www.fondationboninchi.ch/
-  title: Unawareness of neurological disease. Explicit and implicit measures, brain correlates, and recovery of awareness
+  date_end: ""
+  date_start: "2018-10-01"
+  description: "Extension of the SNSF professorship grant for two additional years"
+  organization: Swiss National Science Foundation
+  organization_url: https://www.snf.ch/fr/qB3Cj7WzYGcqbgVi/encouragement/encouragement/anciens-instruments-encouragement/professeurs-boursiers-fns
+  title: Cognitive and neural systems for understanding others and their somatic states
   url: ""
-- certificate_url: ""
-  date_end: "2020-12-01"
-  date_start: "2017-12-01"
-  description: ""
-  organization: SNSF Marie Heim-Vögtlin career grant
-  organization_url: 
-  title: Unawareness of neurological disease. Explicit and implicit measures, brain correlates, and recovery of awareness.
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-09-01"
+  description: "Collaboration project investigating the interplay between sleep deprivation and restriction in the sensitivity to one's and others' pain *(Principal Investigator: Sophie Schwartz)*"
+  organization: Swiss National Science Foundation
+  organization_url: https://www.snf.ch/en/SeeylPzMUy8kmuyv/news/call-project-funding
+  title: 'Deciphering the neural impact of sleep loss on metacognition and empathic judgments for
+pain'
   url: ""
-- certificate_url: "" 
-  date_end: "2014-04-01"
-  date_start: "2016-07-01"
-  description: ""
-  organization: EPFL's postdoctoral fellowship co-founded by Marie Curie
-  organization_url: https://www.epfl.ch/research/initiatives/epfl-fellows/
-  title: 'Brain mechanisms of exteroceptive and interoceptive integration in bodily self-consciousness.'
+- certificate_url: 
+  date_end: "2018-09-30"
+  date_start: "2015-10-01"
+  description: "SNSF professorship grant which allowed me to estabilish my own research group"
+  organization: Swiss National Science Foundation
+  organization_url: https://www.snf.ch/fr/qB3Cj7WzYGcqbgVi/encouragement/encouragement/anciens-instruments-encouragement/professeurs-boursiers-fns
+  title: Cognitive and neural systems for understanding others and their somatic states
   url: ""
+- certificate_url: 
+  date_end: "2015-09-01"
+  date_start: "2011-09-01"
+  description: "Project investigating the role of expectancy in the experience of pain and disgust *(Principal Investigator: Patrik Vuilleumier)*"
+  organization: Swiss National Science Foundation
+  organization_url: https://www.snf.ch/en/SeeylPzMUy8kmuyv/news/call-project-funding
+  title: 'Your pains and my dangers: Linking empathy to shared predictive coding in the human 
+anterior insula'
 
 design:
   columns: '2' 
