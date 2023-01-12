@@ -25,7 +25,7 @@ publication_types:
 publishDate: "2023-11-01T00:00:00Z"
 slides: 
 summary:
-tags: [Vocal emotion, Cerebellum,fMRI,Lesion symptom mapping,connectivity]
+tags: [Vocal emotion,Cerebellum,fMRI,Lesion symptom mapping,connectivity]
 title: Dysfunctional cerebello-cerebral network associated with vocal emotion recognition impairments
 url_code: ""
 url_dataset: ""
