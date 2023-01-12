@@ -5,6 +5,6 @@ image:
   caption: 
   focal_point: Smart
 summary: Research Assistant
-tags: Assistant
+tags: 
 title: Irmak Ozarslan
 ---

@@ -5,6 +5,6 @@ image:
   caption: 
   focal_point: Smart
 summary: Master student Medecine
-tags: Master
+tags: 
 title: Geronimo Jones
 ---

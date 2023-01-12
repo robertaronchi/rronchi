@@ -5,6 +5,6 @@ image:
   caption: 
   focal_point: Smart
 summary: Master student Psychology
-tags: Master
+tags: 
 title: Noemi Di Fiore
 ---
