@@ -41,7 +41,7 @@ experience:
     date_end: '2021-09-30'
     description: I am the referent for the cognitive assessment after right-brain stroke lesion (diagnosis and early rehabilitation) at the Neurology Unit of the University Hospital of Geneva. 
 
-  - title: Post-doctoral Position
+  - title: Senior Researcher
     company: Laboratory of Neuroimaging and Cognition (P. Vuilleumier), University of Geneva
     company_url: 'https://www.unige.ch/medecine/neuf/en/research/grecherche/patrik-vuilleumier/'
     company_logo: 

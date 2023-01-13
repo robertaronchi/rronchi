@@ -7,4 +7,5 @@ image:
 summary: Department of Psychology, University of Geneva
 tags:
 title: Prof. Julie Péron
+show_date: false
 ---

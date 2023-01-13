@@ -8,4 +8,5 @@ summary:
 tags:
 - Master Student
 title: MindMaze
+show_date: false
 ---

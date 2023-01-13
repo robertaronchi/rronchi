@@ -11,7 +11,7 @@ role: Clinical Neuroscientist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University Hospital of Geneva & University of Geneva
-    url: https://www.hug.ch/
+    url: https://www.unige.ch/medecine/neucli/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

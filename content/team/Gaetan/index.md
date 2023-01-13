@@ -8,4 +8,5 @@ summary: Master student Medicine
 tags:
 - Master Student 
 title: Gaetan Meystre
+show_date: false
 ---

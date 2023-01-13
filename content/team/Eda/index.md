@@ -8,4 +8,5 @@ summary: Post-Doc
 tags:
 - Post-Doc
 title: Dr. Eda Tipura
+show_date: false
 ---

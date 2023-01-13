@@ -7,4 +7,5 @@ image:
 summary: Department of Basic Neurosciences, University of Geneva
 tags:
 title: Prof. Patrik Vuilleumier
+show_date: false
 ---

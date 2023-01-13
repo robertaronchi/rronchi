@@ -8,4 +8,5 @@ summary: Master student Psychology
 tags:
 - Master Student  
 title: Amédée Liardet
+show_date: false
 ---

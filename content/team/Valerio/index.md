@@ -8,4 +8,5 @@ summary: Master student Psychology
 tags:
 - Master Student
 title: Valerio Baldoni
+show_date: false
 ---

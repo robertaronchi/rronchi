@@ -8,4 +8,5 @@ summary: Master student Psychology
 tags: 
 - Master Student
 title: Lucie Berset
+show_date: false
 ---

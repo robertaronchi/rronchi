@@ -8,4 +8,5 @@ summary: Master student Medecine
 tags:
 - Master Student 
 title: Geronimo Jones
+show_date: false
 ---

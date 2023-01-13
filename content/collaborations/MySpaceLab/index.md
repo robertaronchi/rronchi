@@ -7,4 +7,5 @@ image:
 summary: University Hospital of Lausanne
 tags:
 title: Prof. Andrea Serino
+show_date: false
 ---

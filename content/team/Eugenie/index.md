@@ -8,4 +8,5 @@ summary: Research Assistant
 tags:
 - Research Assistant
 title: Eugénie Cataldo
+show_date: false
 ---
