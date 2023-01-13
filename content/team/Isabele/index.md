@@ -4,7 +4,7 @@ external_link: "https://www.researchgate.net/profile/Isabele-Jacot-De-Alcantara"
 image:
   caption: 
   focal_point: Smart
-summary: Research Assistant
+summary: Working on the implicit and explicit features of anosognosia for neurological illness and for unilateral spatial neglect 
 tags:
 - Research Assistant
 title: Isabele Jacot de Alcântara

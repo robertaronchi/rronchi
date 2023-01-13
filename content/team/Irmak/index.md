@@ -4,9 +4,9 @@ external_link: "https://www.researchgate.net/profile/Irmak-Ozarslan-3"
 image:
   caption: 
   focal_point: Smart
-summary: Research Assistant
+summary: Working on the electrophysiological correlate of anosognosia for unilateral spatial neglect
 tags:
-- Research Assistant 
+- Research Assistant
 title: Irmak Ozarslan
 show_date: false
 ---

@@ -4,7 +4,7 @@ external_link: "https://www.unige.ch/fapse/mad/equipe/tipura/"
 image:
   caption: 
   focal_point: Smart
-summary: Post-Doc
+summary: Working on the electrophysiological correlates of implicit awareness of neurological deficits and bodily disorders
 tags:
 - Post-Doc
 title: Dr. Eda Tipura

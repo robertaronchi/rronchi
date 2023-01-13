@@ -39,7 +39,7 @@ experience:
     location: Geneva (Switzerland)
     date_start: '2019-01-01'
     date_end: '2021-09-30'
-    description: I am the referent for the cognitive assessment after right-brain stroke lesion (diagnosis and early rehabilitation) at the Neurology Unit of the University Hospital of Geneva. 
+    description: I am the referent for the cognitive assessment after right-brain stroke lesion at the Neurology Unit of the University Hospital of Geneva. 
 
   - title: Senior Researcher
     company: Laboratory of Neuroimaging and Cognition (P. Vuilleumier), University of Geneva
@@ -49,7 +49,7 @@ experience:
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        I investigate unawareness of neurological diseases, and of spatial neglect symptoms in brain-damaged patients. Use of behavioural, physiological and brain-stimulation techniques.
+        I investigate unawareness of neurological diseases, bodily disorders and spatial neglect symptoms in brain-damaged patients. Use of behavioural, physiological and brain-stimulation techniques.
 
         I am also involved in a rehabilitation research project on neurofeedback training in brain-damaged patients with unilateral spatial neglect.
         

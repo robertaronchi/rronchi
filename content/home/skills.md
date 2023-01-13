@@ -18,7 +18,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: More than a decade of experience as cinical neuropsychologist
+- description: More than a decade of experience as clinical and experimental neuropsychologist
   icon: NeuropsyPink
   icon_pack: custom
   name: Neuropsychology
@@ -30,11 +30,11 @@ feature:
   icon: EEG
   icon_pack: custom
   name: Electroencephalography
-- description: Involved in numerous rehabilitation protocols for rehabilitation of stroke deficits
+- description: Involved in numerous rehabilitation protocols for rehabilitation of deficits following brain lesion
   icon: Rehab
   icon_pack: custom
   name: Rehabilitation
-- description: Development of VR protocols for rehabilitation
+- description: Development of VR protocols for assessment of spatial and bodily deficits
   icon: VR
   icon_pack: custom
   name: Virtual Reality
@@ -42,6 +42,10 @@ feature:
   icon: BrainStimulation
   icon_pack: custom
   name: tDCS
+- description: Integrating intero- and exteroceptive signals in neurological and neurotypical participants
+  icon: Cardiology
+  icon_pack: custom
+  name: Multisensory Integration
 - description: Long-lasting experience in univariate data analysis
   icon: chart-line
   icon_pack: fas

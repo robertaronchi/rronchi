@@ -4,7 +4,7 @@ external_link: "https://www.linkedin.com/in/eug%C3%A9nie-cataldo-46a2b71a6/"
 image:
   caption: 
   focal_point: Smart
-summary: Research Assistant
+summary: Working on the clinical, functional and neural features of body part disownership in stroke patients
 tags:
 - Research Assistant
 title: Eugénie Cataldo
