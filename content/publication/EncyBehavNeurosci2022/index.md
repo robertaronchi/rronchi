@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2022-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [hemispatial neglect, Extra-personal neglect, Personal neglect, anosognosia,somatoparaphrenia,Spatial attention, Spatial representation, right-hemisphere patients, Posterior parietal cortex, Frontal premotor cortex, Target cancellation, Line bisection, Neglect dyslexia, Vestibular stimulationPrism adaptation]
+tags: [hemispatial neglect, Extra-personal neglect, Personal neglect, anosognosia,somatoparaphrenia,Spatial attention, Spatial representation, right-hemisphere patients, Posterior parietal cortex, Frontal premotor cortex, Target cancellation, Line bisection, Neglect dyslexia, Vestibular stimulation,Prism adaptation]
 title: Unilateral Spatial Neglect
 url_code: ""
 url_dataset: ""

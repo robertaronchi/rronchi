@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2023-04-23T00:00:00Z"
 slides: 
 summary:
-tags: []
+tags: [hemispatial neglect, Extra-personal neglect, Personal neglect, right-hemisphere patients, Posterior parietal cortex, Frontal premotor cortex, Target cancellation, Line bisection]
 title: Récupération de la négligence post-AVC dans le temps
 url_code: ""
 url_dataset: ""
