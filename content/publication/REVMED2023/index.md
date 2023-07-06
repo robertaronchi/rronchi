@@ -5,7 +5,7 @@ authors:
 - admin
 date: "2023-04-23T00:00:00Z"
 doi: "10.53738/REVMED.2023.19.824.828"
-featured: true
+featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
