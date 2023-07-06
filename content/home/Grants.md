@@ -24,12 +24,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
+  date_end: ""
+  date_start: "2023-09-01"
+  description: ""
+  organization: HUG research funding
+  organization_url: ""
+  title: Neglect treatment by prism adaptation in the acute phase (co-applicant Dr. Jennifer Martin)
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-09-01"
+  description: ""
+  organization: Sana Foundation
+  organization_url: ""
+  title: This is not my body. The disrupted bodily self of neurological patients
+  url: ""
+- certificate_url: ""
   date_end: "2023-08-31"
   date_start: "2022-09-01"
   description: ""
   organization: HUG research funding
   organization_url: ""
-  title: This is not my body. the disrupted bodily self of neurological patients
+  title: This is not my body. The disrupted bodily self of neurological patients
   url: ""
 - certificate_url: ""
   date_end: "2023-09-01"
