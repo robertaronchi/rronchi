@@ -23,7 +23,7 @@ publication_types:
 publishDate: "2023-03-18T00:00:00Z"
 slides: 
 summary:
-tags: [virtual reality, assessment, unilateral spatial neglect, stroke, Visuospatial attention, Peripersonal neglect, Extrapersonal neglect, Immersive, Brain injury]
+tags: [virtual reality, assessment, hemispatial spatial neglect, unilateral spatial neglect, stroke, Visuospatial attention, Peripersonal neglect, Extrapersonal neglect, Immersive, Brain injury]
 title: An immersive virtual reality system for ecological assessment of peripersonal and extrapersonal unilateral spatial neglect
 url_code: ""
 url_dataset: ""
