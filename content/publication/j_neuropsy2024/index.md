@@ -30,7 +30,7 @@ tags: [complex environment space, hemispatial spatial neglect, unilateral spatia
 title: An immersive virtual reality tool for assessing left and right unilateral spatial neglect
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.researchgate.net/publication/316167978_Illusory_hand_ownership_in_a_patient_with_personal_neglect_for_the_upper_limb_but_no_somatoparaphenia"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
