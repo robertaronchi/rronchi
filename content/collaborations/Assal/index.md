@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Department of Clinical Neurosciences, University of Geneva
 tags:
-title: Dr Frédéric Assal
+title: Dr. Frédéric Assal
 show_date: false
 ---

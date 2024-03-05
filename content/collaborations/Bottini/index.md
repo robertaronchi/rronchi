@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Department of Brain and Behavioral Sciences, University of Pavia
 tags:
-title: Prof Gabriella Bottini
+title: Prof. Gabriella Bottini
 show_date: false
 ---
