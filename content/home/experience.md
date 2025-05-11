@@ -56,7 +56,7 @@ experience:
     company_logo: 
     location: Geneva (Switzerland)
     date_start: '2017-01-01'
-    date_end: ''
+    date_end: '2024-12-31'
     description: |2-
         I investigate unawareness of neurological diseases, bodily disorders and spatial neglect symptoms in brain-damaged patients. Use of behavioural, physiological and brain-stimulation techniques.
 
