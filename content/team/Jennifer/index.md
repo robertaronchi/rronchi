@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: co-leading a project about rehabilitation of unilateral spatial neglect in the acute phase
+summary: Co-leading a project about rehabilitation of unilateral spatial neglect in the acute phase
 tags:
 - Post-Doc
 title: Dr. Jennifer Martin

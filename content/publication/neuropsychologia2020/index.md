@@ -10,7 +10,7 @@ authors:
 - Giuseppe Vallar
 date: "2020-02-01T00:00:00Z"
 doi: "10.1016/j.neuropsychologia.2020.107337"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Working on the clinical, functional and neural features of body part disownership in stroke patients
 tags:
-- Research Assistant
+- Alumni
 title: Eugénie Cataldo
 show_date: false
 ---

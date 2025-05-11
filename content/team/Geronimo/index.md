@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Master student Medecine
 tags:
-- Master Student 
+- Alumni 
 title: Geronimo Jones
 show_date: false
 ---

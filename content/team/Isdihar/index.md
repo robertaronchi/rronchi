@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Working on the rehabilitation project for unilateral spatial neglect in the acute phase
+summary: Working on the rehabilitation project for unilateral spatial neglect in the acute phase and implicit features of disownership
 tags:
 - Research Assistant
 title: Isdihar Hamed

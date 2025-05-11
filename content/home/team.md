@@ -36,6 +36,8 @@ content:
       tag: Research Assistant
     - name: Master Students
       tag: Master Student
+    - name: Alumni
+      tag: Alumni
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

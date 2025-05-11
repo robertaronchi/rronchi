@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Working on the electrophysiological correlates of implicit awareness of neurological deficits and bodily disorders
 tags:
-- Post-Doc
+- Alumni
 title: Dr. Eda Tipura
 show_date: false
 ---

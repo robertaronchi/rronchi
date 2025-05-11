@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Department of Clinical Neurosciences, University of Geneva
+    company_url: 'https://www.unige.ch/medecine/neucli/'
+    company_logo: 
+    location: Geneva (Switzerland)
+    date_start: '2025-05-01'
+    date_end: ''
+    description: '' 
+
   - title: Head Neuropsycologist
     company: Neurology Unit, University Hospital of Geneva
     company_url: 'https://www.hug.ch/neurologie/equipe-unite-neuropsychologie'
