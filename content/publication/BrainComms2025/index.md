@@ -10,18 +10,18 @@ authors:
 - Patrik Vuilleumier
 - admin
 date: "2025-05-07T00:00:00Z"
-doi: ""
+doi: "10.1093/braincomms/fcaf217"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'Brain Communications, provisionaly accepted'
-publication_short: "Brain Comm., provisionaly accepted"
+publication: 'Brain Communications, fcaf217, https://doi.org/10.1093/braincomms/fcaf217'
+publication_short: "Brain Comm., fcaf217, https://doi.org/10.1093/braincomms/fcaf217"
 publication_types:
 - "2"
-publishDate: ""
+publishDate: "2025-06-04T00:00:00Z"
 slides: 
 summary: "After brain damage, patients can experience the lack of ownership of body parts. By exploiting a large dataset and state-of-the-art analyses, Cataldo et al. demonstrate that subtle forms of disownership are undetected post-stroke, and suggest the role of complex bilateral brain networks in the construction of body awareness in humans"
 tags: [Bodily self-consciousness, Lack of ownership, Brain lesion analyses, Structural disconnection, Neuropsychology]
