@@ -49,7 +49,7 @@ item:
 - certificate_url: ""
   date_end: "2023-09-01"
   date_start: "2021-09-01"
-  description: "<img src='SNF_logo_Swiss_National_Science_Foundation.png' />"
+  description: "<img src='uploads/SNF_logo_Swiss_National_Science_Foundation.png' />"
   organization: SNSF Project Funding
   organization_url: https://www.snf.ch/
   title: This is not my body. The disrupted bodily self of neurological patients
@@ -65,7 +65,7 @@ item:
 - certificate_url: ""
   date_end: "2020-12-01"
   date_start: "2017-12-01"
-  description: ""
+  description: "<img src='uploads/SNF_logo_Swiss_National_Science_Foundation.png' />"
   organization: SNSF Marie Heim-Vögtlin career grant
   organization_url: 
   title: Unawareness of neurological disease. Explicit and implicit measures, brain correlates, and recovery of awareness.
