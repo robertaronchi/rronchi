@@ -33,7 +33,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2023-09-01"
-  description: "<img src='uploads/FondationSana_RGB_POS.jpg' width='200'/>" #![image](uploads/FondationSana_RGB_POS.jpg =x250)"
+  description: "<img src='uploads/FondationSana_RGB_POS.jpg' width='150'/>" #![image](uploads/FondationSana_RGB_POS.jpg =x250)"
   organization: Sana Foundation
   organization_url: ""
   title: This is not my body. The disrupted bodily self of neurological patients.
@@ -49,7 +49,7 @@ item:
 - certificate_url: ""
   date_end: "2023-09-01"
   date_start: "2021-09-01"
-  description: ""
+  description: "<img src='SNF_logo_Swiss_National_Science_Foundation.png' />"
   organization: SNSF Project Funding
   organization_url: https://www.snf.ch/
   title: This is not my body. The disrupted bodily self of neurological patients
