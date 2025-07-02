@@ -36,7 +36,7 @@ item:
   description: ""
   organization: Sana Foundation
   organization_url: ""
-  title: This is not my body. The disrupted bodily self of neurological patients
+  title: This is not my body. The disrupted bodily self of neurological patients. ![image](uploads/FondationSana_RGB_POS.jpg)
   url: ""
 - certificate_url: ""
   date_end: "2023-08-31"
