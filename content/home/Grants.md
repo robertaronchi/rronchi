@@ -33,10 +33,10 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2023-09-01"
-  description: ""
+  description: "![image](uploads/FondationSana_RGB_POS.jpg)"
   organization: Sana Foundation
   organization_url: ""
-  title: This is not my body. The disrupted bodily self of neurological patients. ![image](uploads/FondationSana_RGB_POS.jpg)
+  title: This is not my body. The disrupted bodily self of neurological patients.
   url: ""
 - certificate_url: ""
   date_end: "2023-08-31"
